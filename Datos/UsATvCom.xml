@@ -1,0 +1,791 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="KTVU HDTV (FOX)">
+    <display-name lang="en">KTVU HDTV (FOX)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KTVU (FOX)">
+    <display-name lang="en">KTVU (FOX)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KRON HDTV (MNT)">
+    <display-name lang="en">KRON HDTV (MNT)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KRON (MNT)">
+    <display-name lang="en">KRON (MNT)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KPIX HDTV (CBS)">
+    <display-name lang="en">KPIX HDTV (CBS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KPIX (CBS)">
+    <display-name lang="en">KPIX (CBS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KGO HDTV (ABC)">
+    <display-name lang="en">KGO HDTV (ABC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KGO (ABC)">
+    <display-name lang="en">KGO (ABC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KQED HDTV (PBS)">
+    <display-name lang="en">KQED HDTV (PBS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KQED (PBS)">
+    <display-name lang="en">KQED (PBS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KNTV HDTV (NBC)">
+    <display-name lang="en">KNTV HDTV (NBC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KNTV (NBC)">
+    <display-name lang="en">KNTV (NBC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KDTV HDTV Univision 14 (UNI)">
+    <display-name lang="en">KDTV HDTV Univision 14 (UNI)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KDTV Univision 14 (UNI)">
+    <display-name lang="en">KDTV Univision 14 (UNI)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KOFYDT (KOFYD)">
+    <display-name lang="en">KOFYDT (KOFYD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KOFY (KOFY)">
+    <display-name lang="en">KOFY (KOFY)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KRCB HDTV (PBS)">
+    <display-name lang="en">KRCB HDTV (PBS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KRCB (PBS)">
+    <display-name lang="en">KRCB (PBS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KTSF (KTSF)">
+    <display-name lang="en">KTSF (KTSF)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KMTP (KMTP)">
+    <display-name lang="en">KMTP (KMTP)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KICU HDTV (KICUH)">
+    <display-name lang="en">KICU HDTV (KICUH)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KICU (KICU)">
+    <display-name lang="en">KICU (KICU)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KCNS MUNDOMAX (MMAX)">
+    <display-name lang="en">KCNS MUNDOMAX (MMAX)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KTNC Estrella TV (KTNC)">
+    <display-name lang="en">KTNC Estrella TV (KTNC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KCSM HDTV (KCSMDT)">
+    <display-name lang="en">KCSM HDTV (KCSMDT)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KCSM (KCSM)">
+    <display-name lang="en">KCSM (KCSM)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KBCW HDTV (CW)">
+    <display-name lang="en">KBCW HDTV (CW)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KBCW (CW)">
+    <display-name lang="en">KBCW (CW)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KSTS HDTV Telemundo 48 (TELMUN)">
+    <display-name lang="en">KSTS HDTV Telemundo 48 (TELMUN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KSTS Telemundo 48 (TELMUN)">
+    <display-name lang="en">KSTS Telemundo 48 (TELMUN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KEMO Azteca América (AZTECA-E)">
+    <display-name lang="en">KEMO Azteca América (AZTECA-E)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KQED Plus HDTV (PBS)">
+    <display-name lang="en">KQED Plus HDTV (PBS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KQED Plus (PBS)">
+    <display-name lang="en">KQED Plus (PBS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ION (ION)">
+    <display-name lang="en">ION (ION)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KFSF HDTV UniMás 66 (UNIMAS-E)">
+    <display-name lang="en">KFSF HDTV UniMás 66 (UNIMAS-E)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KFSF UniMás 66 (UNIMAS-E)">
+    <display-name lang="en">KFSF UniMás 66 (UNIMAS-E)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KTLN (KTLN)">
+    <display-name lang="en">KTLN (KTLN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Quality Value Convenience Network HDTV (QVCHD)">
+    <display-name lang="en">Quality Value Convenience Network HDTV (QVCHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Quality Value Convenience Network (QVC)">
+    <display-name lang="en">Quality Value Convenience Network (QVC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="GSN (East) (GSN)">
+    <display-name lang="en">GSN (East) (GSN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Jewelry Television (JTV)">
+    <display-name lang="en">Jewelry Television (JTV)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="EVINE Live (EVINE)">
+    <display-name lang="en">EVINE Live (EVINE)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Shopping Network (PACTV)">
+    <display-name lang="en">Shopping Network (PACTV)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Liquidation Channel (LC)">
+    <display-name lang="en">Liquidation Channel (LC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="QVC Plus (QVCPL)">
+    <display-name lang="en">QVC Plus (QVCPL)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="SALE Network (SALE)">
+    <display-name lang="en">SALE Network (SALE)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="LOOK Network (LOOK)">
+    <display-name lang="en">LOOK Network (LOOK)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Rocks TV (ROCKS)">
+    <display-name lang="en">Rocks TV (ROCKS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Infomercial (INFOM)">
+    <display-name lang="en">Infomercial (INFOM)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="WOW TV (WOW)">
+    <display-name lang="en">WOW TV (WOW)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="IDEA Channel (IDEA)">
+    <display-name lang="en">IDEA Channel (IDEA)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Mercury Media (SAVE)">
+    <display-name lang="en">Mercury Media (SAVE)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="VALU DirecTV (VALU)">
+    <display-name lang="en">VALU DirecTV (VALU)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Infomercial Channel (PEEK)">
+    <display-name lang="en">Infomercial Channel (PEEK)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="BEST Channel (BEST)">
+    <display-name lang="en">BEST Channel (BEST)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="HAVAS DirecTV (HAVAS)">
+    <display-name lang="en">HAVAS DirecTV (HAVAS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Celebrity Shopping Network (CSNET)">
+    <display-name lang="en">Celebrity Shopping Network (CSNET)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="XTRA Network DirecTV (XTRA)">
+    <display-name lang="en">XTRA Network DirecTV (XTRA)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Audience Channel SDTV (AUDSD)">
+    <display-name lang="en">Audience Channel SDTV (AUDSD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Audience Channel HDTV (DirecTV) (AUDHD)">
+    <display-name lang="en">Audience Channel HDTV (DirecTV) (AUDHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="3DTV Cinema DirecTV (CINE3D)">
+    <display-name lang="en">3DTV Cinema DirecTV (CINE3D)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Dynamic DAU Channel HDTV (IACHD)">
+    <display-name lang="en">Dynamic DAU Channel HDTV (IACHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="DIRECTV Sports Subscriptions (DTV)">
+    <display-name lang="en">DIRECTV Sports Subscriptions (DTV)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NFL Sunday Ticket This Week (NFLST)">
+    <display-name lang="en">NFL Sunday Ticket This Week (NFLST)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Cable News Network HDTV (CNNHD)">
+    <display-name lang="en">Cable News Network HDTV (CNNHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Cable News Network (CNN)">
+    <display-name lang="en">Cable News Network (CNN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="HLN HDTV (HLNHD)">
+    <display-name lang="en">HLN HDTV (HLNHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="HLN (HLN)">
+    <display-name lang="en">HLN (HLN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="DIRECTV Sports MixHD (SMX)">
+    <display-name lang="en">DIRECTV Sports MixHD (SMX)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ESPN HDTV (ESPNHD)">
+    <display-name lang="en">ESPN HDTV (ESPNHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ESPN (ESPN)">
+    <display-name lang="en">ESPN (ESPN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ESPN News HDTV (ESNEWSHD)">
+    <display-name lang="en">ESPN News HDTV (ESNEWSHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ESPN News (ESPNEWS)">
+    <display-name lang="en">ESPN News (ESPNEWS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ESPNU (ESPNU)">
+    <display-name lang="en">ESPNU (ESPNU)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ESPNU HDTV (ESPNUHD)">
+    <display-name lang="en">ESPNU HDTV (ESPNUHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ESPN2 HDTV (ESPN2HD)">
+    <display-name lang="en">ESPN2 HDTV (ESPN2HD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ESPN2 (ESPN2)">
+    <display-name lang="en">ESPN2 (ESPN2)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ESPN Alternate Programming HDTV (ESPHDA)">
+    <display-name lang="en">ESPN Alternate Programming HDTV (ESPHDA)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ESPN Alternate Programming (ESPNAP)">
+    <display-name lang="en">ESPN Alternate Programming (ESPNAP)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ESPN-2 Alternate Programming (ESPAP)">
+    <display-name lang="en">ESPN-2 Alternate Programming (ESPAP)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ESPN-2 HDTV Alternate Programming (ESPAHD)">
+    <display-name lang="en">ESPN-2 HDTV Alternate Programming (ESPAHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The NFL Network (NFL)">
+    <display-name lang="en">The NFL Network (NFL)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The NFL Network HDTV (NFLHD)">
+    <display-name lang="en">The NFL Network HDTV (NFLHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="MLB Network (MLBN)">
+    <display-name lang="en">MLB Network (MLBN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="MLB Network HDTV (MLBHD)">
+    <display-name lang="en">MLB Network HDTV (MLBHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="MLB Network Alternate DirecTV (MLB)">
+    <display-name lang="en">MLB Network Alternate DirecTV (MLB)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="MLB Network Alternate HDTV DirecTV (MLBAHD)">
+    <display-name lang="en">MLB Network Alternate HDTV DirecTV (MLBAHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="MavTV (MAVTV)">
+    <display-name lang="en">MavTV (MAVTV)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NHL Network US (NHLTV)">
+    <display-name lang="en">NHL Network US (NHLTV)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NHL Network US HDTV (NHLHD)">
+    <display-name lang="en">NHL Network US HDTV (NHLHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NHL Network Alternate DirecTV (NHL)">
+    <display-name lang="en">NHL Network Alternate DirecTV (NHL)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NHL Network Alternate HDTV DirecTV (NHLAHD)">
+    <display-name lang="en">NHL Network Alternate HDTV DirecTV (NHLAHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NBA TV (NBA TV)">
+    <display-name lang="en">NBA TV (NBA TV)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NBA TV HDTV (NBA HD)">
+    <display-name lang="en">NBA TV HDTV (NBA HD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Tennis Channel (TENNIS)">
+    <display-name lang="en">Tennis Channel (TENNIS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Tennis Channel HDTV (TNNSHD)">
+    <display-name lang="en">Tennis Channel HDTV (TNNSHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The Golf Channel (GOLF)">
+    <display-name lang="en">The Golf Channel (GOLF)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The Golf Channel HDTV (GLFHD)">
+    <display-name lang="en">The Golf Channel HDTV (GLFHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Fox Sports 1 HDTV (FS1HD)">
+    <display-name lang="en">Fox Sports 1 HDTV (FS1HD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Fox Sports 1 (FS1)">
+    <display-name lang="en">Fox Sports 1 (FS1)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NBC Sports Network (NBCSN)">
+    <display-name lang="en">NBC Sports Network (NBCSN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NBC Sports Network HDTV (NBCSP)">
+    <display-name lang="en">NBC Sports Network HDTV (NBCSP)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NBC Sports Network Alternate DirecTV (NBCALT)">
+    <display-name lang="en">NBC Sports Network Alternate DirecTV (NBCALT)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NBC Sports Network Alternate HDTV DirecTV (NBCHDA)">
+    <display-name lang="en">NBC Sports Network Alternate HDTV DirecTV (NBCHDA)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="CBS Sports Network (CBSSN)">
+    <display-name lang="en">CBS Sports Network (CBSSN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="CBS Sports Network HDTV (CBSSD)">
+    <display-name lang="en">CBS Sports Network HDTV (CBSSD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="SAVE (SAVE)">
+    <display-name lang="en">SAVE (SAVE)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Gem Shopping Network (GEMS)">
+    <display-name lang="en">Gem Shopping Network (GEMS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Home &amp; Garden Television HDTV (East) (HGTVD)">
+    <display-name lang="en">Home &amp; Garden Television HDTV (East) (HGTVD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Home &amp; Garden Television (East) (HGTV)">
+    <display-name lang="en">Home &amp; Garden Television (East) (HGTV)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Do It Yourself Network HDTV (East) (DIYHD)">
+    <display-name lang="en">Do It Yourself Network HDTV (East) (DIYHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Do it Yourself Network (East) (DIY)">
+    <display-name lang="en">Do it Yourself Network (East) (DIY)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Food Network HDTV (East) (FOODHD)">
+    <display-name lang="en">Food Network HDTV (East) (FOODHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Food Network (East) (FOOD)">
+    <display-name lang="en">Food Network (East) (FOOD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The Cooking Channel (COOK)">
+    <display-name lang="en">The Cooking Channel (COOK)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The Cooking Channel HDTV (COOKHD)">
+    <display-name lang="en">The Cooking Channel HDTV (COOKHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Esquire Network SD (East) (ESQUI)">
+    <display-name lang="en">Esquire Network SD (East) (ESQUI)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="E! Entertainment Television HDTV (East) (E! HD)">
+    <display-name lang="en">E! Entertainment Television HDTV (East) (E! HD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="E! Entertainment Television (East) (E!)">
+    <display-name lang="en">E! Entertainment Television (East) (E!)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Bravo HDTV (East) (BRAVOD)">
+    <display-name lang="en">Bravo HDTV (East) (BRAVOD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Bravo (East) (BRAVO)">
+    <display-name lang="en">Bravo (East) (BRAVO)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ReelzChannel (REELZ)">
+    <display-name lang="en">ReelzChannel (REELZ)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ReelzChannel HDTV (REELZH)">
+    <display-name lang="en">ReelzChannel HDTV (REELZH)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Home Shopping Network (HSN)">
+    <display-name lang="en">Home Shopping Network (HSN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Spike TV HDTV (East) (SPKHD)">
+    <display-name lang="en">Spike TV HDTV (East) (SPKHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Spike TV (East) (SPK)">
+    <display-name lang="en">Spike TV (East) (SPK)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="USA Network HDTV (East) (USAHD)">
+    <display-name lang="en">USA Network HDTV (East) (USAHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="USA Network (East) (USA)">
+    <display-name lang="en">USA Network (East) (USA)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The BUZZ (BUZZ)">
+    <display-name lang="en">The BUZZ (BUZZ)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Syfy (East) (SYFY)">
+    <display-name lang="en">Syfy (East) (SYFY)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Syfy HDTV (SYFYHD)">
+    <display-name lang="en">Syfy HDTV (SYFYHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Turner Network Television HDTV (East) (TNTHD)">
+    <display-name lang="en">Turner Network Television HDTV (East) (TNTHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Turner Network Television (East) (TNT)">
+    <display-name lang="en">Turner Network Television (East) (TNT)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="truTV HDTV (East) (TRUTVD)">
+    <display-name lang="en">truTV HDTV (East) (TRUTVD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="truTV (East) (TRUTV)">
+    <display-name lang="en">truTV (East) (TRUTV)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="TBS Superstation HDTV (East) (TBSHD)">
+    <display-name lang="en">TBS Superstation HDTV (East) (TBSHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="TBS Superstation (East) (TBS)">
+    <display-name lang="en">TBS Superstation (East) (TBS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="FX HDTV (East) (FX HD)">
+    <display-name lang="en">FX HDTV (East) (FX HD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="FX (East) (FX)">
+    <display-name lang="en">FX (East) (FX)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Comedy Central HDTV (East) (CMDHD)">
+    <display-name lang="en">Comedy Central HDTV (East) (CMDHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Comedy Central (East) (COMEDY)">
+    <display-name lang="en">Comedy Central (East) (COMEDY)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Infomercial Channel (MALL)">
+    <display-name lang="en">Infomercial Channel (MALL)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Oxygen (East) (OXYGN)">
+    <display-name lang="en">Oxygen (East) (OXYGN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Lifetime Television HDTV (East) (LIFEH)">
+    <display-name lang="en">Lifetime Television HDTV (East) (LIFEH)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Lifetime Television (East) (LIFE)">
+    <display-name lang="en">Lifetime Television (East) (LIFE)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="LMN HDTV (East) (LMNHD)">
+    <display-name lang="en">LMN HDTV (East) (LMNHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="LMN (East) (LMN)">
+    <display-name lang="en">LMN (East) (LMN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="AMC HDTV (East) (AMCHD)">
+    <display-name lang="en">AMC HDTV (East) (AMCHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="AMC (East) (AMC)">
+    <display-name lang="en">AMC (East) (AMC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Turner Classic Movies (TCM)">
+    <display-name lang="en">Turner Classic Movies (TCM)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Turner Classic Movies HDTV (TCMHD)">
+    <display-name lang="en">Turner Classic Movies HDTV (TCMHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Chiller (CHILL)">
+    <display-name lang="en">Chiller (CHILL)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="FX Movie Channel (FXM)">
+    <display-name lang="en">FX Movie Channel (FXM)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="FXX HDTV (East) (FXXHD)">
+    <display-name lang="en">FXX HDTV (East) (FXXHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="FXX (East) (FXX)">
+    <display-name lang="en">FXX (East) (FXX)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Women's Entertainment HDTV (East) (WE HD)">
+    <display-name lang="en">Women's Entertainment HDTV (East) (WE HD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Women's Entertainment Network (East) (WE)">
+    <display-name lang="en">Women's Entertainment Network (East) (WE)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Discovery Life Channel (DLIF)">
+    <display-name lang="en">Discovery Life Channel (DLIF)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Real Shopping DirecTV (REAL)">
+    <display-name lang="en">Real Shopping DirecTV (REAL)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="BBC America HDTV (East) (BBC)">
+    <display-name lang="en">BBC America HDTV (East) (BBC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="BBC America (East) (BBC)">
+    <display-name lang="en">BBC America (East) (BBC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="A&amp;E Network HDTV (A&amp;EHD)">
+    <display-name lang="en">A&amp;E Network HDTV (A&amp;EHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="A&amp;E Network (East) (A&amp;E)">
+    <display-name lang="en">A&amp;E Network (East) (A&amp;E)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="FYI HDTV (FYIHD)">
+    <display-name lang="en">FYI HDTV (FYIHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="FYI (FYI)">
+    <display-name lang="en">FYI (FYI)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Pivot (PIVOT)">
+    <display-name lang="en">Pivot (PIVOT)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="History (East) (HIST)">
+    <display-name lang="en">History (East) (HIST)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="History HDTV (East) (HISHD)">
+    <display-name lang="en">History HDTV (East) (HISHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="H2 HDTV (H2 HD)">
+    <display-name lang="en">H2 HDTV (H2 HD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="H2 (H2)">
+    <display-name lang="en">H2 (H2)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="LOGO (East) (LOGO)">
+    <display-name lang="en">LOGO (East) (LOGO)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Pop (East) (POP)">
+    <display-name lang="en">Pop (East) (POP)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Ovation Arts Network (OVATN)">
+    <display-name lang="en">Ovation Arts Network (OVATN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Ovation Arts Network HDTV (OVTNHD)">
+    <display-name lang="en">Ovation Arts Network HDTV (OVTNHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="National Geographic Channel HDTV (NGCHD)">
+    <display-name lang="en">National Geographic Channel HDTV (NGCHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="National Geographic Channel (NGC)">
+    <display-name lang="en">National Geographic Channel (NGC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Travel Channel (East) (TRAVEL)">
+    <display-name lang="en">Travel Channel (East) (TRAVEL)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Travel Channel HDTV (East) (TRAVD)">
+    <display-name lang="en">Travel Channel HDTV (East) (TRAVD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The Discovery Channel HDTV (East) (DSCHD)">
+    <display-name lang="en">The Discovery Channel HDTV (East) (DSCHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The Discovery Channel (East) (DSC)">
+    <display-name lang="en">The Discovery Channel (East) (DSC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The Oprah Winfrey Network HDTV (East) (OWNHD)">
+    <display-name lang="en">The Oprah Winfrey Network HDTV (East) (OWNHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The Oprah Winfrey Network (East) (OWN)">
+    <display-name lang="en">The Oprah Winfrey Network (East) (OWN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The Learning Channel HDTV (East) (TLCHD)">
+    <display-name lang="en">The Learning Channel HDTV (East) (TLCHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The Learning Channel (East) (TLC)">
+    <display-name lang="en">The Learning Channel (East) (TLC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Velocity HDTV (VELOCITY)">
+    <display-name lang="en">Velocity HDTV (VELOCITY)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Animal Planet HDTV (East) (APHD)">
+    <display-name lang="en">Animal Planet HDTV (East) (APHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Animal Planet (East) (ANIMAL)">
+    <display-name lang="en">Animal Planet (East) (ANIMAL)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NatGeo WILD (NGWILD)">
+    <display-name lang="en">NatGeo WILD (NGWILD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NatGeo WILD HDTV (NGWILD)">
+    <display-name lang="en">NatGeo WILD HDTV (NGWILD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Science (SCI)">
+    <display-name lang="en">Science (SCI)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Science HDTV (SCIHD)">
+    <display-name lang="en">Science HDTV (SCIHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Investigation Discovery (ID)">
+    <display-name lang="en">Investigation Discovery (ID)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Investigation Discovery HDTV (IDHD)">
+    <display-name lang="en">Investigation Discovery HDTV (IDHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Destination America HDTV (DAMHD)">
+    <display-name lang="en">Destination America HDTV (DAMHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Destination America (DESTAMER)">
+    <display-name lang="en">Destination America (DESTAMER)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="American Heroes Channel (AHC)">
+    <display-name lang="en">American Heroes Channel (AHC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Disney Junior HDTV East (DISJR)">
+    <display-name lang="en">Disney Junior HDTV East (DISJR)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+</tv>
